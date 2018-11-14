@@ -26,9 +26,9 @@ icingacli module enable batman
 ```
 
 * Choose theme in admin or user UI
-  - Tactical Overview ![Icinga Web 2 theme Batman](https://github.com/jschanz/icingaweb2-theme-batman/raw/master/screenshots/batman-theme-to.png "Batman theme tactical overview") <p>
-  - User Preferences / Activation (de) ![Icinga Web 2 theme Batman](https://github.com/jschanz/icingaweb2-theme-batman/raw/master/screenshots/batman-theme-user-de.png "Batman theme user activation") <p>
-  - User Preferences / Activation (en) ![Icinga Web 2 theme Batman](https://github.com/jschanz/icingaweb2-theme-batman/raw/master/screenshots/batman-theme-user-en.png "Batman theme user activation") <p>
+  - Tactical Overview ![Icinga Web 2 theme Batman](https://github.com/jschanz/icingaweb2-theme-batman-dark/raw/master/screenshots/batman-theme-to.png "Batman theme tactical overview") <p>
+  - User Preferences / Activation (de) ![Icinga Web 2 theme Batman](https://github.com/jschanz/icingaweb2-theme-batman-dark/raw/master/screenshots/batman-theme-user-de.png "Batman theme user activation") <p>
+  - User Preferences / Activation (en) ![Icinga Web 2 theme Batman](https://github.com/jschanz/icingaweb2-theme-batman-dark/raw/master/screenshots/batman-theme-user-en.png "Batman theme user activation") <p>
 
 ## Contribution
 
