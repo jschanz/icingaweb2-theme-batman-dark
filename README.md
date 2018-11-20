@@ -12,7 +12,7 @@ Install these theme repository like any other Icinga Web 2 theme:
 
 * copy all folders/files to your icingaweb2 folder (mostly /usr/share/icingaweb2)
 ```bash
-git clone https://github.com/jschanz/icingaweb2-theme-batman /usr/share/icingaweb2/modules/batman-dark
+git clone https://github.com/jschanz/icingaweb2-theme-batman-dark /usr/share/icingaweb2/modules/batman-dark
 ```
 * If you want, you can download the background image in full resolution (6000x4000) and logo from https://unsplash.com/photos/meqVd5zwylI and https://www.shareicon.net/download/2015/09/24/106444_man.svg.
 ```bash
